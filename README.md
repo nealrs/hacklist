@@ -1,12 +1,16 @@
 ## Hacklist
 
-A thing Neal built to make his life easier.
+A thing I made to save some time when preparing Devpost's weekly Newsletter.
 
-### Purpose
+Why doesn't Devpost have a date-driven JSON API for this? No clue, but you can ask support@devpost.com if you want.
 
-Returns a -newsletter ready- list in (HTML) of in-person hackathons that occur during the selected months.
+### What does it do?
 
-### Usage
+Returns a -newsletter ready- HTML list of in-person hackathons which occur during the selected months.
+
+### Use it
+
+Dependencies: beautiful soup & requests
 
 ```python
 python hacklist.py jul [aug sep oct]
