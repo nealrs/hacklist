@@ -6,7 +6,7 @@ Why doesn't Devpost have a date-driven JSON API for this? No clue, but you can a
 
 ### What does it do?
 
-Returns a -newsletter ready- HTML list of in-person hackathons which occur during the selected months.
+Returns a _newsletter ready_ HTML list of in-person hackathons which occur during the selected months.
 
 ### Use it
 
